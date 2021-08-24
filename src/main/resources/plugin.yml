@@ -1,0 +1,5 @@
+name: afk
+main: xyz.softsquirrel.afk.Afk
+version: 1.0
+author: Squirrelcoding
+api-version: 1.17
